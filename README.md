@@ -12,9 +12,8 @@ This project uses deep learning and transfer learning to classify lady purse ima
 
 **💼Bottega Veneta Mini Jodie, Chanel 255, Fendi Baguette, Gucci Jackie Hobo, Lady Dior, Prada Cleo, and Negative👛.**
 
-The `Negative` class represents other bag styles that are not part of the six designer purse categories.
+The `Negative` class represents other bag styles that are not part of the six designer purse categories. The project covers the full computer vision workflow: exploring the dataset, trainig a baseline ResNet18 model, finetuning it for a better performance, evaluating the results, and adding image similarity search
 
-***The project covers the full computer vision workflow: exploring the dataset, training a baseline ResNet18 model, fine-tuning it for better performance, evaluating the results, and adding image similarity search.***
 ---
 
 ## 📦 Dataset
