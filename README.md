@@ -2,7 +2,7 @@
 
 Welcome to a fun computer vision project where we teach a model to recognize designer purse styles👛 from images.
 
-The goal is simple: **given a purse image, classify it into the correct designer/style category** — or identify it as a non-target bag using the `Negative` class.
+The goal is simple: **given a purse image, classify it into the correct designer/style category** - or identify it as a non-target bag using the `Negative` class.
 
 ---
 
