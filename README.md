@@ -10,18 +10,11 @@ The goal is simple: **given a purse image, classify it into the correct designer
 
 This project uses deep learning and transfer learning to classify lady purse images into **7 categories**:
 
-| Class | Description |
-|---|---|
-| Bottega Veneta Mini Jodie | Designer purse style |
-| Chanel 255 | Designer purse style |💼
-| Fendi Baguette | Designer purse style |
-| Gucci Jackie Hobo | Designer purse style |
-| Lady Dior | Designer purse style |
-| Prada Cleo | Designer purse style |
-| Negative | Other bag styles not part of the six designer categories |
+**💼Bottega Veneta Mini Jodie, Chanel 255, Fendi Baguette, Gucci Jackie Hobo, Lady Dior, Prada Cleo, and Negative👛.**
+
+The `Negative` class represents other bag styles that are not part of the six designer purse categories.
 
 The project starts with exploratory data analysis, trains a baseline ResNet18 model, improves it using fine-tuning, evaluates performance with classification metrics, and adds a small image similarity search feature.
-
 ---
 
 ## 📦 Dataset
@@ -78,7 +71,7 @@ This project built a computer vision model🧠 to classify designer purse images
 
 Main steps:
 
-- Collected the purse image dataset from Kaggle
+- Collected the purse image dataset from Kaggle💼
 - Organized images into labeled classes
 - Created a train, validation, and test split
 - Performed basic exploratory data analysis
