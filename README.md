@@ -14,7 +14,7 @@ This project uses deep learning and transfer learning to classify lady purse ima
 
 The `Negative` class represents other bag styles that are not part of the six designer purse categories.
 
-The project starts with exploratory data analysis, trains a baseline ResNet18 model, improves it using fine-tuning, evaluates performance with classification metrics, and adds a small image similarity search feature.
+***The project covers the full computer vision workflow: exploring the dataset, training a baseline ResNet18 model, fine-tuning it for better performance, evaluating the results, and adding image similarity search.***
 ---
 
 ## 📦 Dataset
